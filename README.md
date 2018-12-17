@@ -1,7 +1,7 @@
 
 # Menampilkan data JSON dengan Next.js
 
-[![Image](https://cdn-images-1.medium.com/max/1600/1*CFTbxTD6XotL21x86TjNbg.jpeg)
+![Image](https://cdn-images-1.medium.com/max/1600/1*CFTbxTD6XotL21x86TjNbg.jpeg)
 
 Cara menampilkan data JSON di Next.js
 
